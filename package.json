@@ -10,6 +10,9 @@
     "type": "git",
     "url": "https://github.com/dchaley26/tea.git"
   },
+  "dependencies": {
+    "classnames": "^2.3.1"
+  },
   "author": "",
   "license": "ISC"
 }
